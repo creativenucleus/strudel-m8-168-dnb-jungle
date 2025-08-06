@@ -1,0 +1,8 @@
+{
+    "_base": "https://raw.githubusercontent.com/creativenucleus/strudel-m8-168-dnb-jungle/main/",
+    "breaks": [
+        "samples/000_BRK-AMEN.wav",
+        "samples/001_BRK-AMEN-GATED.wav",
+        "samples/003_BRK-THINK.wav"
+    ]
+}

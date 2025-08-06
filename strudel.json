@@ -4,5 +4,8 @@
         "samples/000_BRK-AMEN.wav",
         "samples/001_BRK-AMEN-GATED.wav",
         "samples/003_BRK-THINK.wav"
+    ],
+    "vox": [
+        "033_vox-wah-12khz.wav"
     ]
 }

@@ -1,11 +1,65 @@
 {
-    "_base": "https://raw.githubusercontent.com/creativenucleus/strudel-m8-168-dnb-jungle/main/",
-    "breaks": [
-        "samples/000_BRK-AMEN.wav",
-        "samples/001_BRK-AMEN-GATED.wav",
-        "samples/003_BRK-THINK.wav"
-    ],
-    "vox": [
-        "samples/033_vox-wah-12khz.wav"
-    ]
+	"_base": "https://raw.githubusercontent.com/creativenucleus/strudel-m8-168-dnb-jungle/main/",
+	"breaks": [
+		"samples/000_BRK-AMEN.wav",
+		"samples/003_BRK-THINK.wav",
+		"samples/006_BRK-HOT-PANTS.wav"
+	],
+	"breaks-gated": [
+		"samples/001_BRK-AMEN-GATED.wav",
+		"samples/004_BRK-THINK-GATED.wav",
+		"samples/007_BRK-HOT-P_TS-GATED.wav"
+	],
+	"breaks-noquant": [
+		"samples/002_breaks-amen-no-quantisation.wav",
+		"samples/005_brk-think-no-quantisation.wav",
+		"samples/008_breaks-hotpants-no-quantisation.wav"
+	],
+	"bass": [
+		"samples/009_BT0AADA.wav",
+		"samples/010_STAT0SA.wav",
+		"samples/011_BASS-808-C.wav",
+		"samples/012_BASS-NOISE-808-C.wav",
+		"samples/013_bass-808-amigo-c.wav",
+		"samples/014_bass-reese-casca-C.wav",
+		"samples/015_bass-model-reese-c.wav"
+	],
+	"pads": [
+		"samples/016_pads-tr-rack-pad-Cmin7-ice.wav",
+		"samples/017_pads-tr-rack-pad-Cmin7-mellow.wav",
+		"samples/018_pads-triton-Cmin7-1.wav",
+		"samples/019_pads-triton-Cmin7-2.wav",
+		"samples/020_pads-triton-Cmin7-3.wav",
+		"samples/021_pad-wavestation-strings-cmin9.wav",
+		"samples/022_pad-canz-4khz-cmin9.wav",
+		"samples/023_pad-science-cmin.wav",
+		"samples/024_pad-cyber-bunny-8khz.wav",
+		"samples/025_pad-voices-cmin9.wav",
+		"samples/026_pad-nosta-cmin9.wav"
+	],
+	"vox": [
+		"samples/027_vox-come-on.wav",
+		"samples/028_vox-yeah-yeah-yeah.wav",
+		"samples/029_vox-oh-yeah.wav",
+		"samples/030_vox-oh.wav",
+		"samples/031_vox-whole-on-12khz.wav",
+		"samples/032_vox-what-12khz.wav",
+		"samples/033_vox-wah-12khz.wav"
+	],
+	"fx": [
+		"samples/034_FX-BIRD.wav",
+		"samples/035_fx-dub-laser.wav",
+		"samples/036_fx-dub-siren-delay.wav",
+		"samples/037_fx-dub-siren.wav",
+		"samples/038_fx-dub-wail-1.wav",
+		"samples/039_fx-dub-wail-2.wav",
+		"samples/040_fx-dub-wail-3.wav",
+		"samples/041_fx-spinback.wav",
+		"samples/042_atmos-wail.wav",
+		"samples/043_fx-lazer-rev.wav",
+		"samples/044_fx-dub-bleeps-165bpm.wav"
+	],
+	"synth": [
+		"samples/045_syn-tera-string-c.wav"
+	]
 }
